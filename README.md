@@ -1,5 +1,5 @@
 # Hotel-Booking-Analysis
-## This dashboard provides a comprehensive overview of our hotel’s booking patterns and customer behavior.
+## This dashboard provides a comprehensive overview of the hotel’s booking patterns and customer behavior.
 
 ![hotel analysis](https://github.com/user-attachments/assets/2be8ec49-88fd-4400-829b-f6d1e1cff642)
 
